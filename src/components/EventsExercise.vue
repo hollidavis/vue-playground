@@ -44,7 +44,6 @@ export default {
     const state = reactive({
       counter: 0,
       greeting: "Hello World!",
-      //create a method called "greet"
     });
     return {
       state,
